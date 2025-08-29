@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="MasterHead" src="" width="600" height="300" src= "https://www.canva.com/design/DAGw1ko2VuU/4jhEekoop-GZShBXgWE_cg/edit?utm_content=DAGw1ko2VuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
-</div
 </div>
+
 <h1 align="center">Hi 👋, I'm Tanushree Nayal</h1>
 <h3 align="center">👨‍💻 A driven developer writing code, solving problems, learning daily for projects worth the wait. 🚀</h3>
 <img align="right" alt="coding" width"400" src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774">
