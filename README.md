@@ -2,17 +2,6 @@
   <img alt="MasterHead" src="MYPROFILE1-ezgif.com-video-to-gif-converter.gif" width="100%" />
 </div>
 
-
-<div style="text-align: center; margin-top: 1em;">
-  <a href="https://www.canva.com/design/DAGw1ko2VuU/7mSqpzGbtqmfzw8mAndaZA/watch?utm_content=DAGw1ko2VuU&utm_campaign=designshare&utm_medium=embeds&utm_source=link" 
-     target="_blank" 
-     rel="noopener"
-     style="text-decoration: none; padding: 10px 20px; background-color: #ef694d; color: #fff; font-weight: bold; border-radius: 8px; transition: 0.3s;">
-     MY PROFILE
-  </a>
-  <p style="color: #42403f; margin-top: 0.5em;">by Tanushree Nayal</p>
-</div>
-
 <h1 align="center">Hi 👋, I'm Tanushree Nayal</h1>
 <h3 align="center">👨‍💻 A driven developer writing code, solving problems, learning daily for projects worth the wait. 🚀</h3>
 <img align="right" alt="coding" width"400" src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774">
