@@ -1,21 +1,7 @@
-<div style="
-  position: relative;
-  width: 100%;
-  max-width: 900px;
-  height: 0;
-  padding-top: 56.25%;
-  margin: 2em auto;
-  border-radius: 16px;
-  overflow: hidden;
-  box-shadow: 0 6px 20px rgba(66,64,63,0.25);
-">
-  <iframe 
-    loading="lazy" 
-    style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none;" 
-    src="https://www.canva.com/design/DAGw1ko2VuU/7mSqpzGbtqmfzw8mAndaZA/watch?embed" 
-    allowfullscreen>
-  </iframe>
+<div align="center">
+  <img alt="MasterHead" src="MYPROFILE1-ezgif.com-video-to-gif-converter.gif" width="100%" />
 </div>
+
 
 <div style="text-align: center; margin-top: 1em;">
   <a href="https://www.canva.com/design/DAGw1ko2VuU/7mSqpzGbtqmfzw8mAndaZA/watch?utm_content=DAGw1ko2VuU&utm_campaign=designshare&utm_medium=embeds&utm_source=link" 
